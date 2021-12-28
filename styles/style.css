@@ -110,6 +110,10 @@ p {
   padding: 120px 60px;
 }
 
+#mywork-button {
+  align-items: center;
+}
+
 #leo-abdn {
   border-radius: 20px;
   max-width: 500px;
